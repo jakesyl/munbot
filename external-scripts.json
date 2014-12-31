@@ -9,5 +9,20 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-loudbot",
+  "hubot-cron",
+  "hubot-calculator",
+  "hubot-leaderboard",
+  "hubot-ikr",
+  "hubot-thank-you",
+  "hubot-9gag",
+  "hubot-weather",
+  "hubot-dinner",
+  "hubot-what-the-fox",
+  "hubot-quote-grab",
+  "hubot-codinglove",
+  "hubot-steal",
+  "hubot-yolo"
+
 ]
