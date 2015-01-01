@@ -35,7 +35,9 @@
     "hubot-yolo":"1.0.7",
     "hubot-slack":"3.2.1",
     "hubot-business-cat":"*",
-    "hubot-seen":"*"
+    "hubot-seen":"*",
+    "hubot-uptimerobot":"*"
+
   },
   "engines": {
     "node": "0.10.x"
