@@ -37,7 +37,9 @@
     "hubot-business-cat":"*",
     "hubot-seen":"*",
     "hubot-uptimerobot":"*",
-    "hubot-cute-me":"*"
+    "hubot-cute-me":"*",
+    "hubot-humanity":"*",
+    "hubot-darts": "1.0.x"
 
   },
   "engines": {
