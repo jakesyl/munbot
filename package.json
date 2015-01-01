@@ -34,7 +34,8 @@
     "hubot-steal" : "0.0.2",
     "hubot-yolo":"1.0.7",
     "hubot-slack":"3.2.1",
-    "hubot-business-cat":"*"
+    "hubot-business-cat":"*",
+    "hubot-seen":"*"
   },
   "engines": {
     "node": "0.10.x"
