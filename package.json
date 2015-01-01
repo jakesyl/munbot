@@ -36,7 +36,8 @@
     "hubot-slack":"3.2.1",
     "hubot-business-cat":"*",
     "hubot-seen":"*",
-    "hubot-uptimerobot":"*"
+    "hubot-uptimerobot":"*",
+    "hubot-cute-me":"*"
 
   },
   "engines": {
